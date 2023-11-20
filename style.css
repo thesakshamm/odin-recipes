@@ -1,0 +1,35 @@
+body{
+    background-color: orange;
+}
+
+body .title{
+    text-align: center;
+    color:whitesmoke;
+    font-size: 50px;
+    font-family:"Courier New", monospace ;
+}
+
+ .gif{
+    
+    text-align: center;
+    border: 1px;
+}
+
+.chicken{ font-size:20px;
+    color: black;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.potato{
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    color: black;
+}
+
+.dishes{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
+    color:black;
+}
